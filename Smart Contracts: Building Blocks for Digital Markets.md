@@ -87,7 +87,7 @@ As informações sobre quem está falando com quem, como as que podem ser encont
 
 ## Proteção de Chaves
 
-Até agora, presumimos que festas como Alice e Bob são monolíticas. Mas no mundo dos contratos inteligentes, eles usarão agentes
+Até agora, presumimos que partes como a de Alice e Bob são monolíticas. Mas no mundo dos contratos inteligentes, eles usarão agentes
 de software baseados em computador e cartões inteligentes para fazer suas licitações eletrônicas. As chaves não estão 
 necessariamente ligadas a identidades, e a tarefa de fazer essa ligação acaba sendo mais difícil do que à primeira vista.
 Uma vez que as chaves são vinculadas, elas precisam ser bem protegidas, mas as conexões de rede de longa distância são
