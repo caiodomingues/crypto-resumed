@@ -518,19 +518,36 @@ convergem para o conceito de contratos inteligentes.
 
 ### References:
 Oliver Williamson, *The Economic Institutions of Capitalism*
+
 Janet Landa, *Trust, Ethnicity, and Identity*
+
 *The New Palgrave: Allocation, Information, and Markets*
+
 Bruce Schneier, *Applied Cryptography*
+
 *Crypto* and *Eurocrypt* conference proceedings, 1982-1994.
+
 "Crypto Rebels", Wired #2, also cypherpunks mailing list* (mail to majordomo@toad.com with body "subscribe cypherpunks")
+
 Perry H. Beaumont, *Fixed Income Synthetic Assets*
+
 [Frederich Hayek](http://www.xmission.com/~legalize/lf/blurbs/f-a-hayek.htm), The Fatal Conceit
+
 Ming Li & Paul Vitanyi, *An Introduction to Kolmogorov Complexity and Its Applications*
+
 Vernor Vinge, "True Names" (fiction), from *True Names and Other Dangers*
+
 Mixmaster (ptr to web site)
+
 PGP (ptr to web site)
+
 Tim May, "Cyphernomicon"
+
 [David Chaum, "Security Without Identification"](http://www.digicash.com/publish/bigbro.html)
+
 [David Chaum, "Achieving Electronic Privacy"](http://www.digicash.com/publish/sciam.html)
+
 [Agorics web site](http://www.agorics.com/)
+
 [DigiCash web site](http://www.digicash.com/)
+
