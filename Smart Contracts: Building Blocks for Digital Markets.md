@@ -14,206 +14,76 @@ Permissão para redistribuir sem alteração.
 
 ## Introdução
 
-O contrato, um conjunto de promessas acertadas num "encontro de ideias", é a forma tradicional de formalizar uma relação. Embora os
-contratos sejam usados principalmente em relações comerciais (o foco deste artigo), eles também podem envolver relacionamentos pessoais,
-como casamentos. Os contratos também são importantes na política, não apenas por causa das teorias do "contrato social", mas também 
-porque a execução de contratos tem sido tradicionalmente considerada uma função básica dos governos capitalistas.
+O contrato é um conjunto de promessas acertadas num "encontro de ideias", é a forma tradicional de formalizar uma relação. Embora os contratos sejam usados principalmente em relações comerciais (o foco deste artigo), eles também podem envolver relacionamentos pessoais, como casamentos. Os contratos também são importantes na política, não apenas por causa das teorias do "contrato social", mas também porque a execução de contratos tem sido tradicionalmente considerada uma função básica dos governos capitalistas.
 
-Seja executado por um governo ou de outra forma, o contrato é o alicerce básico de uma economia de mercado livre. Ao longo de muitos
-séculos de evolução cultural emergiu o conceito de contrato e os princípios relacionados a ele, codificados na lei comum.
-A [teoria da informação algorítmica](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/kolmogorov.html)
-sugere que essas estruturas evoluídas costumam ser proibitivamente caras para recomputar. Se começarmos do zero, usando a razão
-e a experiência, podem levar muitos séculos para desenvolver ideias sofisticadas, como os direitos de propriedade, que fazem o
-mercado livre moderno funcionar [Hayek].
+Seja executado por um governo ou de outra forma, o contrato é o alicerce básico de uma economia de mercado livre. Ao longo de muitos séculos de evolução cultural emergiu o conceito de contrato e os princípios relacionados a ele, codificados na lei comum. A [teoria da informação algorítmica](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/kolmogorov.html) sugere que essas estruturas evoluídas costumam ser proibitivamente caras para recomputar. Se começarmos do zero, usando a razão e a experiência, podem levar muitos séculos para desenvolver ideias sofisticadas, como os direitos de propriedade, que fazem o mercado livre moderno funcionar [Hayek].
 
-O sucesso da lei comum dos contratos, combinado com o alto custo de sua substituição, faz com que valha a pena preservar e fazer
-uso desses princípios quando apropriado. No entanto, a revolução digital está mudando radicalmente os tipos de relacionamento que
-podemos ter. Que partes de nossa tradição jurídica duramente conquistada ainda serão valiosas na era do ciberespaço? Qual é a melhor
-maneira de aplicar esses princípios de lei comum ao projeto de nossos relacionamentos on-line?
+O sucesso da lei comum dos contratos, combinado com o alto custo de sua substituição, faz com que valha a pena preservar e fazer uso desses princípios quando apropriado. No entanto, a revolução digital está mudando radicalmente os tipos de relacionamento que podemos ter. Que partes de nossa tradição jurídica duramente conquistada ainda serão valiosas na era do ciberespaço? Qual é a melhor maneira de aplicar esses princípios de lei comum ao projeto de nossos relacionamentos on-line?
 
-Os computadores possibilitam a execução de algoritmos até então proibitivamente caros e as redes a transmissão mais rápida de
-mensagens maiores e mais sofisticadas. Além disso, cientistas da computação e criptógrafos descobriram recentemente muitos
-algoritmos novos e bastante interessantes. A combinação dessas mensagens e algoritmos torna possível uma ampla variedade de
-novos protocolos.
+Os computadores possibilitam a execução de algoritmos até então proibitivamente caros e as redes a transmissão mais rápida de mensagens maiores e mais sofisticadas. Além disso, cientistas da computação e criptógrafos descobriram recentemente muitos algoritmos novos e bastante interessantes. A combinação dessas mensagens e algoritmos torna possível uma ampla variedade de novos protocolos.
 
-Novas instituições e novas formas de formalizar as relações que as constituem, agora são possibilitadas pela revolução digital.
-Eu chamo esses novos contratos de "inteligentes", porque eles são muito mais funcionais do que seus ancestrais inanimados
-baseados em papel. Nenhum uso de inteligência artificial está implícito. Um contrato inteligente é um conjunto de promessas,
-especificadas em formato digital, incluindo protocolos nos quais as partes cumprem essas promessas.
+Novas instituições e novas formas de formalizar as relações que as constituem, agora são possibilitadas pela revolução digital. Eu chamo esses novos contratos de "inteligentes", porque eles são muito mais funcionais do que seus ancestrais inanimados baseados em papel. Nenhum uso de inteligência artificial está implícito. Um contrato inteligente é um conjunto de promessas, especificadas em formato digital, incluindo protocolos nos quais as partes cumprem essas promessas.
 
 ## Contratos incorporados ao mundo
 
-A ideia básica dos contratos inteligentes é que muitos tipos de cláusulas contratuais (como ônus, fiança, delineamento de direitos
-de propriedade, etc.) podem ser incorporados ao hardware e software com os quais lidamos, de forma a violar o contrato caro (se
-desejado, às vezes proibitivamente) para o invasor. Um exemplo canônico da vida real, que podemos considerar o ancestral
-primitivo dos contratos inteligentes, é a humilde máquina de venda automática. Dentro de uma quantidade limitada de perda
-potencial (a quantidade na caixa deve ser menor do que o custo de violação do mecanismo), a máquina recebe moedas e, por meio
-de um mecanismo simples, que cria um problema de nível de iniciante no projeto com autômatos finitos, dispensa mudar e produzir
-de forma justa. Os contratos inteligentes vão além da máquina de vendas ao propor a incorporação de contratos em todos os tipos
-de propriedades valiosas e controladas por meios digitais. Os contratos inteligentes fazem referência a essa propriedade de
-forma dinâmica e proativa, e fornecem uma observação e verificação muito melhores onde as medidas pró-ativas devem ser
-insuficientes. E onde a máquina de vendas, como o correio eletrônico, implementa um protocolo assíncrono entre a empresa
-de vendas e o cliente, alguns contratos inteligentes envolvem várias etapas síncronas entre duas ou mais partes.
+A ideia básica dos contratos inteligentes é que muitos tipos de cláusulas contratuais (como ônus, fiança, delineamento de direitos de propriedade, etc.) podem ser incorporados ao hardware e software com os quais lidamos, de forma a violar o contrato caro (se desejado, às vezes proibitivamente) para o invasor. Um exemplo canônico da vida real, que podemos considerar o ancestral primitivo dos contratos inteligentes, é a humilde máquina de venda automática. Dentro de uma quantidade limitada de perda potencial (a quantidade na caixa deve ser menor do que o custo de violação do mecanismo), a máquina recebe moedas e, por meio de um mecanismo simples, que cria um problema de nível de iniciante no projeto com autômatos finitos, dispensa mudar e produzir de forma justa. Os contratos inteligentes vão além da máquina de vendas ao propor a incorporação de contratos em todos os tipos de propriedades valiosas e controladas por meios digitais. Os contratos inteligentes fazem referência a essa propriedade de forma dinâmica e proativa, e fornecem uma observação e verificação muito melhores onde as medidas pró-ativas devem ser insuficientes. E onde a máquina de vendas, como o correio eletrônico, implementa um protocolo assíncrono entre a empresa de vendas e o cliente, alguns contratos inteligentes envolvem várias etapas síncronas entre duas ou mais partes.
 
-Outros precursores de contratos inteligentes incluem terminais e cartões PoS (Ponto de Venda), EDI (Intercâmbio Eletrônico de Dados,
-usado para pedidos e outras transações entre grandes corporações), e as redes SWIFT, ACH e FedWire para transferência
-e compensação de pagamentos entre bancos. Estes implementam modelos de segurança comercial, mas muitas vezes com pouca atenção para
-as necessidades e obrigações contratuais das partes.
+Outros precursores de contratos inteligentes incluem terminais e cartões PoS (Ponto de Venda), EDI (Intercâmbio Eletrônico de Dados, usado para pedidos e outras transações entre grandes corporações), e as redes SWIFT, ACH e FedWire para transferência e compensação de pagamentos entre bancos. Estes implementam modelos de segurança comercial, mas muitas vezes com pouca atenção para as necessidades e obrigações contratuais das partes.
 
 ## Ataques contra Smart Contracts
 
-Uma declaração ampla da ideia-chave dos contratos inteligentes, então, é dizer que os contratos devem ser *incorporados ao mundo*.
-Os mecanismos do mundo devem ser estruturados de forma a fazer os contratos.
+Uma declaração ampla da ideia-chave dos contratos inteligentes, então, é dizer que os contratos devem ser *incorporados ao mundo*. Os mecanismos do mundo devem ser estruturados de forma a fazer os contratos.
 
 (a) robusto contra vandalismo ingênuo, e
 
 (b) robusto contra violação sofisticada, compatível com incentivos (racional)
 
-Um vândalo pode ser uma estratégia ou subestratégia de um jogo cuja utilidade é, pelo menos parcialmente, uma função da própria
-utilidade negativa; ou pode ser um erro de uma parte contratante no mesmo sentido. "Ingênuo" simplesmente se refere à falta de
-premeditação quanto às consequências de uma violação, bem como à quantidade relativamente baixa de recursos gastos para
-possibilitar essa violação. O vandalismo ingênuo é comum o suficiente para ser levado em consideração. Uma terceira categoria,
-(c) vandalismo sofisticado (onde os vândalos podem e estão dispostos a sacrificar recursos substanciais), por exemplo, um
-ataque militar por terceiros, é de um tipo especial e difícil que muitas vezes não surge em contratos típicos, então que
-podemos colocá-lo em uma categoria separada e ignorá-lo aqui. A distinção entre estratégias ingênuas e sofisticadas foi
-formalizada computacionalmente na [teoria da informação algorítmica](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/kolmogorov.html).
+Um vândalo pode ser uma estratégia ou subestratégia de um jogo cuja utilidade é, pelo menos parcialmente, uma função da própria utilidade negativa; ou pode ser um erro de uma parte contratante no mesmo sentido. "Ingênuo" simplesmente se refere à falta de premeditação quanto às consequências de uma violação, bem como à quantidade relativamente baixa de recursos gastos para possibilitar essa violação. O vandalismo ingênuo é comum o suficiente para ser levado em consideração. Uma terceira categoria, (c) vandalismo sofisticado (onde os vândalos podem e estão dispostos a sacrificar recursos substanciais), por exemplo, um ataque militar por terceiros, é de um tipo especial e difícil que muitas vezes não surge em contratos típicos, então que podemos colocá-lo em uma categoria separada e ignorá-lo aqui. A distinção entre estratégias ingênuas e sofisticadas foi formalizada computacionalmente na [teoria da informação algorítmica](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/kolmogorov.html).
 
 ## Alguns princípios básicos de Contract Design
 
-A ameaça de força física é uma maneira óbvia de inserir um contrato no mundo - fazer com que um sistema judicial decida quais 
-medidas físicas devem ser tomadas por uma agência de execução (incluindo prisão, confisco de propriedade, etc.) em resposta a
-um quebra de contrato. É o que chamo de forma *reativa* de segurança. A necessidade de invocar a segurança *reativa* pode ser
-minimizada, mas não eliminada, tornando os arranjos contratuais *verificáveis*, por exemplo, gravando uma violação em uma câmera
-de vídeo ou assinando um contrato, a fim de provar reivindicações de violação em tribunal. A *observação* de um contrato em curso,
-de forma a detectar o primeiro sinal de violação e minimizar as perdas, também é uma forma reativa de segurança. Uma forma 
-*proativa* de segurança é um mecanismo físico que torna a violação cara, como uma fechadura de combinação que torna caro o acesso
-a uma sala contendo segredos comerciais sem autorização explícita.
+A ameaça de força física é uma maneira óbvia de inserir um contrato no mundo - fazer com que um sistema judicial decida quais medidas físicas devem ser tomadas por uma agência de execução (incluindo prisão, confisco de propriedade, etc.) em resposta a um quebra de contrato. É o que chamo de forma *reativa* de segurança. A necessidade de invocar a segurança *reativa* pode ser minimizada, mas não eliminada, tornando os arranjos contratuais *verificáveis*, por exemplo, gravando uma violação em uma câmera
+de vídeo ou assinando um contrato, a fim de provar reivindicações de violação em tribunal. A *observação* de um contrato em curso, de forma a detectar o primeiro sinal de violação e minimizar as perdas, também é uma forma reativa de segurança. Uma forma *proativa* de segurança é um mecanismo físico que torna a violação cara, como uma fechadura de combinação que torna caro o acesso a uma sala contendo segredos comerciais sem autorização explícita.
 
-Da lei comum, teoria econômica e condições contratuais freqüentemente encontradas na prática, podemos destilar quatro objetivos
-básicos do desenho do contrato. A primeira delas é a *observabilidade*, a capacidade dos principais de observar o desempenho uns
-dos outros no contrato, ou de provar seu desempenho para outros principais. O campo da contabilidade está, grosso modo, preocupado
-principalmente em fazer contratos nos quais uma organização está envolvida mais observáveis.
+Da lei comum, teoria econômica e condições contratuais freqüentemente encontradas na prática, podemos destilar quatro objetivos básicos do desenho do contrato. A primeira delas é a *observabilidade*, a capacidade dos principais de observar o desempenho uns dos outros no contrato, ou de provar seu desempenho para outros principais. O campo da contabilidade está, grosso modo, preocupado principalmente em fazer contratos nos quais uma organização está envolvida mais observáveis.
 
-Um segundo objetivo de *verificabilidade*, a capacidade do principal de provar a um árbitro que um contrato foi executado ou
-violado, ou a capacidade do árbitro de descobrir isso por outros meios. As disciplinas de auditoria e investigação correspondem
-aproximadamente à verificação do desempenho do contrato. A observabilidade e a verificabilidade também podem incluir a capacidade
-de diferenciar entre violações intencionais do contrato e erros de boa fé.
+Um segundo objetivo de *verificabilidade*, a capacidade do principal de provar a um árbitro que um contrato foi executado ou violado, ou a capacidade do árbitro de descobrir isso por outros meios. As disciplinas de auditoria e investigação correspondem aproximadamente à verificação do desempenho do contrato. A observabilidade e a verificabilidade também podem incluir a capacidade de diferenciar entre violações intencionais do contrato e erros de boa fé.
 
-Um terceiro objetivo da concepção do contrato é a *privacidade*, o princípio de que o conhecimento e o controle sobre o conteúdo 
-e a execução de um contrato devem ser distribuídos entre as partes apenas na medida necessária para a execução desse contrato.
-Esta é uma generalização do princípio da common law da privacidade contratual, que afirma que terceiros, exceto os árbitros e
-intermediários designados, não devem ter voz na execução de um contrato. A privacidade generalizada vai além disso para formalizar
-a afirmação comum: "não é da sua conta". Os ataques contra a privacidade são resumidos por terceiros - Eve, a bisbilhoteira,
-um observador passivo de conteúdos ou desempenho, e Mallet malicioso, que interfere ativamente no desempenho ou rouba o serviço.
-Nesse modelo, a privacidade e a confidencialidade, ou seja, a proteção do valor das informações sobre um contrato, suas partes
-e seu desempenho por parte de Eva, estão incluídas na privacidade, assim como os direitos de propriedade. O campo da segurança
-(especialmente, para contratos inteligentes, segurança de computador e rede), corresponde aproximadamente ao objetivo da
-privacidade.
+Um terceiro objetivo da concepção do contrato é a *privacidade*, o princípio de que o conhecimento e o controle sobre o conteúdo e a execução de um contrato devem ser distribuídos entre as partes apenas na medida necessária para a execução desse contrato. Esta é uma generalização do princípio da common law da privacidade contratual, que afirma que terceiros, exceto os árbitros e intermediários designados, não devem ter voz na execução de um contrato. A privacidade generalizada vai além disso para formalizar
+a afirmação comum: "não é da sua conta". Os ataques contra a privacidade são resumidos por terceiros - Eve, a bisbilhoteira, um observador passivo de conteúdos ou desempenho, e Mallet malicioso, que interfere ativamente no desempenho ou rouba o serviço. Nesse modelo, a privacidade e a confidencialidade, ou seja, a proteção do valor das informações sobre um contrato, suas partes e seu desempenho por parte de Eva, estão incluídas na privacidade, assim como os direitos de propriedade. O campo da segurança
+(especialmente, para contratos inteligentes, segurança de computador e rede), corresponde aproximadamente ao objetivo da privacidade.
 
-Um quarto objetivo é a *executoriedade* e, ao mesmo tempo, minimizar a necessidade de execução. Freqüentemente, a capacidade
-de verificação aprimorada também ajuda a cumprir esse quarto objetivo. Reputação, incentivos embutidos, protocolos de
-"auto-aplicação" e verificabilidade podem todos desempenhar um papel importante no cumprimento do quarto objetivo.
-A segurança do computador e da rede também pode contribuir muito para tornar os contratos inteligentes auto-aplicáveis.
+Um quarto objetivo é a *executoriedade* e, ao mesmo tempo, minimizar a necessidade de execução. Freqüentemente, a capacidade de verificação aprimorada também ajuda a cumprir esse quarto objetivo. Reputação, incentivos embutidos, protocolos de "auto-aplicação" e verificabilidade podem todos desempenhar um papel importante no cumprimento do quarto objetivo. A segurança do computador e da rede também pode contribuir muito para tornar os contratos inteligentes auto-aplicáveis.
 
-Contratos inteligentes geralmente envolvem terceiros de confiança, exemplificados por um intermediário, que está envolvido
-na execução, e um árbitro, que é chamado para resolver disputas decorrentes da execução (ou falta dela). A privacidade implica
-que queremos minimizar a vulnerabilidade a terceiros. A verificabilidade e a observabilidade geralmente exigem que os invoquemos.
-Um mediador deve ser confiável para alguns dos conteúdos e / ou execução do contrato. Um árbitro deve ser confiável para alguns
-dos conteúdos e um pouco do histórico de desempenho, para resolver disputas e invocar penalidades de forma justa. No projeto
-de contrato inteligente, queremos obter o máximo dos intermediários e árbitros, ao mesmo tempo que minimizamos a exposição a
-eles. Um resultado comum é que a confidencialidade é violada apenas em caso de disputa.
+Contratos inteligentes geralmente envolvem terceiros de confiança, exemplificados por um intermediário, que está envolvido na execução, e um árbitro, que é chamado para resolver disputas decorrentes da execução (ou falta dela). A privacidade implica que queremos minimizar a vulnerabilidade a terceiros. A verificabilidade e a observabilidade geralmente exigem que os invoquemos. Um mediador deve ser confiável para alguns dos conteúdos e / ou execução do contrato. Um árbitro deve ser confiável para alguns dos conteúdos e um pouco do histórico de desempenho, para resolver disputas e invocar penalidades de forma justa. No projeto de contrato inteligente, queremos obter o máximo dos intermediários e árbitros, ao mesmo tempo que minimizamos a exposição a eles. Um resultado comum é que a confidencialidade é violada apenas em caso de disputa.
 
-No futuro, a distribuição do tamanho das empresas multinacionais se aproximará dos negócios locais, dando origem aos [pequenos
-negócios multinacionais](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/multi.small.html). As barreiras legais são o custo mais severo de se fazer negócios em muitas jurisdições. Contratos 
-inteligentes podem cortar esse nó górdio de jurisdições. Onde os contratos inteligentes podem aumentar a privacidade, eles 
-podem diminuir a vulnerabilidade a jurisdições caprichosas. Onde os contratos inteligentes podem aumentar a observabilidade
-ou verificabilidade, eles podem diminuir a dependência desses códigos legais locais obscuros e tradições de fiscalização.
+No futuro, a distribuição do tamanho das empresas multinacionais se aproximará dos negócios locais, dando origem aos [pequenos negócios multinacionais](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/multi.small.html). As barreiras legais são o custo mais severo de se fazer negócios em muitas jurisdições. Contratos inteligentes podem cortar esse nó górdio de jurisdições. Onde os contratos inteligentes podem aumentar a privacidade, eles podem diminuir a vulnerabilidade a jurisdições caprichosas. Onde os contratos inteligentes podem aumentar a observabilidade ou verificabilidade, eles podem diminuir a dependência desses códigos legais locais obscuros e tradições de fiscalização.
 
-As consequências de um projeto inteligente de contrato no direito e na economia dos contratos, e na elaboração de contratos
-estratégicos (e vice-versa), foram pouco exploradas. Da mesma forma, suspeito que as possibilidades de redução significativa
-dos custos de transação na execução de alguns tipos de contratos e as oportunidades de criação de novos tipos de negócios e 
-instituições sociais com base em contratos inteligentes são vastas, mas pouco exploradas. Os "cypherpunks" exploraram o impacto
-político de alguns dos novos blocos de construção do protocolo. O campo de Electronic Data Interchange (EDI), no qual
-elementos de transações comerciais tradicionais (faturas, recibos, etc.) são trocados eletronicamente, às vezes incluindo 
-criptografia e recursos de assinatura digital, pode ser visto como um precursor primitivo de contratos inteligentes. Na verdade,
-esses formulários de negócios podem fornecer bons pontos de partida e marcadores de canal para designers de contrato inteligentes.
+As consequências de um projeto inteligente de contrato no direito e na economia dos contratos, e na elaboração de contratos estratégicos (e vice-versa), foram pouco exploradas. Da mesma forma, suspeito que as possibilidades de redução significativa dos custos de transação na execução de alguns tipos de contratos e as oportunidades de criação de novos tipos de negócios e  instituições sociais com base em contratos inteligentes são vastas, mas pouco exploradas. Os "cypherpunks" exploraram o impacto político de alguns dos novos blocos de construção do protocolo. O campo de Electronic Data Interchange (EDI), no qual elementos de transações comerciais tradicionais (faturas, recibos, etc.) são trocados eletronicamente, às vezes incluindo  criptografia e recursos de assinatura digital, pode ser visto como um precursor primitivo de contratos inteligentes. Na verdade, esses formulários de negócios podem fornecer bons pontos de partida e marcadores de canal para designers de contrato inteligentes.
 
 ## Observabilidade e ações ocultas
 
-Uma tarefa importante dos contratos inteligentes, que tem sido amplamente negligenciada pelo EDI tradicional,
-é crítica para "o encontro das mentes" que está no cerne de um contrato: comunicar a semântica dos protocolos às partes
-envolvidas. Há ampla oportunidade em contratos inteligentes para "letras miúdas inteligentes": ações executadas pelo software
-ocultadas de uma das partes na transação. Por exemplo, as máquinas POS de supermercados não informam aos clientes se seus
-nomes estão ou não sendo vinculados a suas compras em um banco de dados. Os balconistas nem mesmo sabem, e já processaram
-milhares de transações assim sob seus narizes. Assim, por meio de ação oculta do software, o cliente está dando informações que
-ele pode considerar valiosas ou confidenciais, mas o contrato foi redigido e a transação foi desenhada, de forma a ocultar as
+Uma tarefa importante dos contratos inteligentes, que tem sido amplamente negligenciada pelo EDI tradicional, é crítica para "o encontro das mentes" que está no cerne de um contrato: comunicar a semântica dos protocolos às partes envolvidas. Há ampla oportunidade em contratos inteligentes para "letras miúdas inteligentes": ações executadas pelo software ocultadas de uma das partes na transação. Por exemplo, as máquinas POS de supermercados não informam aos clientes se seus nomes estão ou não sendo vinculados a suas compras em um banco de dados. Os balconistas nem mesmo sabem, e já processaram milhares de transações assim sob seus narizes. Assim, por meio de ação oculta do software, o cliente está dando informações que ele pode considerar valiosas ou confidenciais, mas o contrato foi redigido e a transação foi desenhada, de forma a ocultar as
 partes importantes dessa transação do cliente.
 
-Para comunicar adequadamente a semântica da transação, precisamos de boas metáforas visuais para os elementos do contrato. 
-Isso ocultaria os detalhes do protocolo sem abrir mão do controle sobre o conhecimento e a execução dos termos do contrato. 
-Um exemplo primitivo, mas bom, é fornecido pelo software SecureMosiac da CommerceNet. A criptografia é mostrada colocando o 
-documento em um envelope e uma assinatura digital colocando um selo no documento ou envelope. Por outro lado, os servidores 
-Mosaic registram conexões, e às vezes até transações, sem avisar os usuários - ações ocultas clássicas.
+Para comunicar adequadamente a semântica da transação, precisamos de boas metáforas visuais para os elementos do contrato. Isso ocultaria os detalhes do protocolo sem abrir mão do controle sobre o conhecimento e a execução dos termos do contrato. Um exemplo primitivo, mas bom, é fornecido pelo software SecureMosiac da CommerceNet. A criptografia é mostrada colocando o documento em um envelope e uma assinatura digital colocando um selo no documento ou envelope. Por outro lado, os servidores Mosaic registram conexões, e às vezes até transações, sem avisar os usuários - ações ocultas clássicas.
 
 ## Blocos de construção criptográfica
 
-Os protocolos baseados em matemática, chamados de *protocolos criptográficos*, são os blocos de construção básicos que implementam 
-as compensações aprimoradas entre observabilidade, verificabilidade, privacidade e aplicabilidade em contratos inteligentes. 
-Ao contrário do senso comum, a obscuridade costuma ser crítica para a segurança. Os protocolos criptográficos são construídos 
-em torno de focos de obscuridade chamados chaves. A imensa aleatoriedade desconhecida de uma chave permite que o resto do sistema
-seja simples e público. A obscuridade de um grande número aleatório, tão vasto que um palpite de sorte é improvável, se desejado,
-no tempo de vida do universo, é a base sobre a qual os protocolos criptográficos e, por sua vez, os contratos inteligentes são 
-construídos.
+Os protocolos baseados em matemática, chamados de *protocolos criptográficos*, são os blocos de construção básicos que implementam as compensações aprimoradas entre observabilidade, verificabilidade, privacidade e aplicabilidade em contratos inteligentes. Ao contrário do senso comum, a obscuridade costuma ser crítica para a segurança. Os protocolos criptográficos são construídos em torno de focos de obscuridade chamados chaves. A imensa aleatoriedade desconhecida de uma chave permite que o resto do sistema
+seja simples e público. A obscuridade de um grande número aleatório, tão vasto que um palpite de sorte é improvável, se desejado, no tempo de vida do universo, é a base sobre a qual os protocolos criptográficos e, por sua vez, os contratos inteligentes são construídos.
 
-Uma grande variedade de novos protocolos criptográficos surgiu nos últimos anos. O tipo mais tradicional de criptografia é a
-criptografia de chave secreta, na qual Alice e Bob (nossas partes exemplares em um contrato inteligente) usam uma única chave
-combinada previamente combinada para criptografar mensagens entre eles. Um problema fundamental que veremos ao longo desses 
-protocolos é a necessidade de manter as chaves em segredo, e a criptografia de chave pública ajuda a resolver isso. Nessa técnica,
-Alice gera duas chaves, chamadas de chaves privadas e públicas. Ela mantém a chave privada em segredo e bem protegida, e publica 
-a chave pública. Quando Bob deseja enviar uma mensagem para Alice, ele criptografa uma mensagem com sua chave pública, envia a 
-mensagem criptografada e ela descriptografa a mensagem com sua chave privada. A chave privada fornece um "alçapão" que permite 
-que Alice calcule um inverso fácil da função de criptografia que usou a chave pública. A chave pública não fornece nenhuma pista 
-sobre o que é a chave privada, embora elas sejam matematicamente relacionadas. O algoritmo [RSA](http://szabo.best.vwh.net/rsa.html)
-é o método mais amplamente usado de criptografia de chave pública.
+Uma grande variedade de novos protocolos criptográficos surgiu nos últimos anos. O tipo mais tradicional de criptografia é a criptografia de chave secreta, na qual Alice e Bob (nossas partes exemplares em um contrato inteligente) usam uma única chave combinada previamente combinada para criptografar mensagens entre eles. Um problema fundamental que veremos ao longo desses protocolos é a necessidade de manter as chaves em segredo, e a criptografia de chave pública ajuda a resolver isso. Nessa técnica, Alice gera duas chaves, chamadas de chaves privadas e públicas. Ela mantém a chave privada em segredo e bem protegida, e publica a chave pública. Quando Bob deseja enviar uma mensagem para Alice, ele criptografa uma mensagem com sua chave pública, envia a mensagem criptografada e ela descriptografa a mensagem com sua chave privada. A chave privada fornece um "alçapão" que permite que Alice calcule um inverso fácil da função de criptografia que usou a chave pública. A chave pública não fornece nenhuma pista sobre o que é a chave privada, embora elas sejam matematicamente relacionadas. O algoritmo [RSA](http://szabo.best.vwh.net/rsa.html) é o método mais amplamente usado de criptografia de chave pública.
 
-A criptografia de chave pública também possibilita uma ampla variedade de *assinaturas digitais*. Isso prova que um dado 
-(doravante referido apenas como um "objeto") estava em contato ativo com a chave privada correspondente à assinatura: o
-objeto foi ativamente "assinado" com aquela chave. A assinatura digital provavelmente deveria ter sido chamada de "carimbo
-digital" ou "selo digital", já que sua função se assemelha mais a esses métodos do que a um autógrafo. Em particular, não é
-biométrico como um autógrafo, embora a incorporação de uma senha digitada como parte da chave privada usada para assinar às
-vezes possa substituir um autógrafo. Em muitos países asiáticos, um bloco de madeira entalhado à mão, chamado de "chop", é 
-frequentemente usado em vez de autógrafos. Cada corte é único e, devido ao entalhe único e ao grão da madeira, não pode ser
-copiado. Uma assinatura digital é semelhante ao chop, uma vez que cada chave recém-gerada é única, mas é trivial copiar a 
-chave se obtida do titular. Uma assinatura digital pressupõe que o titular manterá o segredo da chave privada.
+A criptografia de chave pública também possibilita uma ampla variedade de *assinaturas digitais*. Isso prova que um dado (doravante referido apenas como um "objeto") estava em contato ativo com a chave privada correspondente à assinatura: o objeto foi ativamente "assinado" com aquela chave. A assinatura digital provavelmente deveria ter sido chamada de "carimbo digital" ou "selo digital", já que sua função se assemelha mais a esses métodos do que a um autógrafo. Em particular, não é biométrico como um autógrafo, embora a incorporação de uma senha digitada como parte da chave privada usada para assinar às vezes possa substituir um autógrafo. Em muitos países asiáticos, um bloco de madeira entalhado à mão, chamado de "chop", é frequentemente usado em vez de autógrafos. Cada corte é único e, devido ao entalhe único e ao grão da madeira, não pode ser copiado. Uma assinatura digital é semelhante ao chop, uma vez que cada chave recém-gerada é única, mas é trivial copiar a chave se obtida do titular. Uma assinatura digital pressupõe que o titular manterá o segredo da chave privada.
 
-Uma *assinatura cega* é uma assinatura digital e um protocolo de criptografia de chave secreta que, juntos, possuem a propriedade
-matemática da comutatividade, de modo que podem ser removidos ao contrário da ordem em que foram aplicados. O efeito é que Bob
-"assina" um objeto, para o qual ele pode verificar sua forma geral, mas não pode ver seu conteúdo específico. Normalmente, a 
-chave da assinatura define o significado do objeto assinado, em vez do conteúdo do objeto assinado, para que Bob não assine um 
-cheque em branco. Assinaturas cegas usadas em instrumentos de portador digital, onde Bob é o agente de compensação, e em 
-[credenciais de Chaumian](http://www.digicash.com/publish/bigbro.html), onde Bob é o emissor da credencial.
+Uma *assinatura cega* é uma assinatura digital e um protocolo de criptografia de chave secreta que, juntos, possuem a propriedade matemática da comutatividade, de modo que podem ser removidos ao contrário da ordem em que foram aplicados. O efeito é que Bob "assina" um objeto, para o qual ele pode verificar sua forma geral, mas não pode ver seu conteúdo específico. Normalmente, a chave da assinatura define o significado do objeto assinado, em vez do conteúdo do objeto assinado, para que Bob não assine um cheque em branco. Assinaturas cegas usadas em instrumentos de portador digital, onde Bob é o agente de compensação, e em [credenciais de Chaumian](http://www.digicash.com/publish/bigbro.html), onde Bob é o emissor da credencial.
 
-O *compartilhamento secreto* é um método de dividir uma chave (e, portanto, controlar qualquer objeto criptografado com essa chave)
-em N partes, das quais apenas M são necessárias para recriar a chave, mas menos de M das partes não fornecem informações sobre
-a chave. O compartilhamento de segredos é uma ferramenta potente para distribuir o controle sobre objetos entre os principais.
+O *compartilhamento secreto* é um método de dividir uma chave (e, portanto, controlar qualquer objeto criptografado com essa chave) em N partes, das quais apenas M são necessárias para recriar a chave, mas menos de M das partes não fornecem informações sobre a chave. O compartilhamento de segredos é uma ferramenta potente para distribuir o controle sobre objetos entre os principais.
 
-A [prova interativa de conhecimento zero](http://www.niksula.cs.hut.fi/~haa/nonpub/zeroknowledge.html) é uma alternativa aos métodos de chave pública para identificação de desafio-resposta.
-Caso contrário, partes funcionando normalmente que têm um incentivo para responder adequadamente ao desafio, mas falham em fazê-lo,
-não possuem a chave), sem revelar qualquer informação sobre essa chave privada ao desafiante ou a qualquer bisbilhoteiro. ZKIPs
-são usados atualmente para autenticação e em armas inteligentes para Identificação de Amigo ou Inimigo (IFF).
+A [prova interativa de conhecimento zero](http://www.niksula.cs.hut.fi/~haa/nonpub/zeroknowledge.html) é uma alternativa aos métodos de chave pública para identificação de desafio-resposta. Caso contrário, partes funcionando normalmente que têm um incentivo para responder adequadamente ao desafio, mas falham em fazê-lo, não possuem a chave), sem revelar qualquer informação sobre essa chave privada ao desafiante ou a qualquer bisbilhoteiro. ZKIPs são usados atualmente para autenticação e em armas inteligentes para Identificação de Amigo ou Inimigo (IFF).
 
-As informações sobre quem está falando com quem, como as que podem ser encontradas nas contas de telefone, podem ser muito
-valiosas, mesmo sem registros do conteúdo real. O envio de mensagens confidenciais é necessário para que alguns dos recursos
-de privacidade das [credenciais de Chaumian](http://www.digicash.com/publish/bigbro.html) e títulos ao portador sejam implementados fortemente em uma rede real. Para fornecer
-a confidencialidade do tráfego, um mix digital pode permitir que as partes se comuniquem através de uma rede sem revelar seus
-parceiros aos provedores de rede ou ao mundo exterior. Em uma mixagem, a análise de tráfego por Eve é impedida pela criptografia
-de boneca russa da mensagem pelo remetente com as chaves públicas de cada operador de mixagem na cadeia e a mixagem de mensagens
-por cada operadora, de modo que a escuta telefônica panóptica Eve perde o controle das mensagens. Para que o par remetente
-/ destinatário permaneça confidencial, apenas 1 entre N das operadoras precisa ser confiável com suas informações de tráfego
-local, embora Eva às vezes possa reunir estatísticas sobre um grande número de mensagens entre os mesmos parceiros para 
-eventualmente adivinhar com quem está falando a quem. As partes que se comunicam também podem ser mutuamente anônimas e, 
-com a criptografia normal, não é necessário confiar em outras partes o conteúdo das mensagens. O software "Mixmaster" na 
-Internet implementa a maioria dos recursos de uma mixagem digital [Mixmaster].
+As informações sobre quem está falando com quem, como as que podem ser encontradas nas contas de telefone, podem ser muito valiosas, mesmo sem registros do conteúdo real. O envio de mensagens confidenciais é necessário para que alguns dos recursos de privacidade das [credenciais de Chaumian](http://www.digicash.com/publish/bigbro.html) e títulos ao portador sejam implementados fortemente em uma rede real. Para fornecer a confidencialidade do tráfego, um mix digital pode permitir que as partes se comuniquem através de uma rede sem revelar seus parceiros aos provedores de rede ou ao mundo exterior. Em uma mixagem, a análise de tráfego por Eve é impedida pela criptografia de boneca russa da mensagem pelo remetente com as chaves públicas de cada operador de mixagem na cadeia e a mixagem de mensagens por cada operadora, de modo que a escuta telefônica panóptica Eve perde o controle das mensagens. Para que o par remetente / destinatário permaneça confidencial, apenas 1 entre N das operadoras precisa ser confiável com suas informações de tráfego local, embora Eva às vezes possa reunir estatísticas sobre um grande número de mensagens entre os mesmos parceiros para eventualmente adivinhar com quem está falando a quem. As partes que se comunicam também podem ser mutuamente anônimas e, com a criptografia normal, não é necessário confiar em outras partes o conteúdo das mensagens. O software "Mixmaster" na Internet implementa a maioria dos recursos de uma mixagem digital [Mixmaster].
 
 ## Proteção de Chaves
 
