@@ -26,10 +26,10 @@ sugere que essas estruturas evoluídas costumam ser proibitivamente caras para r
 e a experiência, podem levar muitos séculos para desenvolver ideias sofisticadas, como os direitos de propriedade, que fazem o
 mercado livre moderno funcionar [Hayek].
 
-O sucesso do common law dos contratos, combinado com o alto custo de sua substituição, faz com que valha a pena preservar e fazer
+O sucesso da lei comum dos contratos, combinado com o alto custo de sua substituição, faz com que valha a pena preservar e fazer
 uso desses princípios quando apropriado. No entanto, a revolução digital está mudando radicalmente os tipos de relacionamento que
 podemos ter. Que partes de nossa tradição jurídica duramente conquistada ainda serão valiosas na era do ciberespaço? Qual é a melhor
-maneira de aplicar esses princípios de common law ao projeto de nossos relacionamentos on-line?
+maneira de aplicar esses princípios de lei comum ao projeto de nossos relacionamentos on-line?
 
 Os computadores possibilitam a execução de algoritmos até então proibitivamente caros e as redes a transmissão mais rápida de
 mensagens maiores e mais sofisticadas. Além disso, cientistas da computação e criptógrafos descobriram recentemente muitos
