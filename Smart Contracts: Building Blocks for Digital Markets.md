@@ -2,7 +2,7 @@
 |-|-|
 Author | Nick Szabo © 1996 |
 Title | Smart Contracts: Building Blocks for Digital Markets |
-URL | https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html |
+URL | [Open](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html) |
 
 Permissão para redistribuir sem alteração.
 
